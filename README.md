@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Engineer;Full+Stack+MERN+Developer;Building+ML+Solutions+at+Scale;Open+to+Internships+%26+Collaborations;Germany+MSc+Seeker+2025)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Engineer;Full+Stack+MERN+Developer;Building+ML+Solutions+at+Scale;Open+to+Internships+%26+Collaborations)
   
   [![Profile Views](https://komarev.com/ghpvc/?username=atifixation&color=667eea&style=flat-square&label=Profile%20Views)](https://github.com/atifixation)
   [![Followers](https://img.shields.io/github/followers/atifixation?style=flat-square&color=667eea&label=Followers)](https://github.com/atifixation)
@@ -12,7 +12,7 @@
   
   📧 **Email:** atif64896@gmail.com | 🌐 **Portfolio:** [atifixation.github.io](https://atifixation.github.io/new-work)
   
-  📍 Bhopal, Madhya Pradesh | 🎓 B.Tech AI & Data Science @ LNCT Bhopal | CGPA: 7.45
+  📍 Bhopal, Madhya Pradesh | 🎓 B.Tech AI & Data Science @ LNCT Bhopal
   
 </div>
 
@@ -25,17 +25,17 @@ I'm a **B.Tech AI & Data Science student** at LNCT Bhopal, passionate about buil
 I'm actively pursuing internships in **AI/Data Science & MERN Backend Development**, focusing on building scalable solutions and contributing to open-source projects.
 
 **What I'm currently doing:**
-- 🤖 Building ML solutions and AI pipelines
-- 💻 Mastering MERN stack backend architecture
-- 📚 Learning advanced data structures and system design
-- 🎬 Creating cinematic content for [@atifrecommends](https://instagram.com/atifrecommends)
-- 📖 Publishing technical content on LinkedIn
+- 🤖 **Building** ML solutions and AI pipelines
+- 💻 **Mastering** MERN stack backend architecture
+- 📚 **Learning** advanced data structures and system design
+- 🎬 **Creating** cinematic content for [@atifrecommends](https://instagram.com/atifrecommends)
+- 📖 **Publishing** technical content on LinkedIn
 
 **Open To:**
-- 💼 AI/ML Internships & Freelance Projects
-- 🔗 MERN Backend Development Opportunities
-- 🤝 Open Source Collaboration
-- 📧 Mentorship & Networking
+- 💼 **AI/ML Internships** & Freelance Projects
+- 🔗 **MERN Backend Development** Opportunities
+- 🤝 **Open Source** Collaboration
+- 📧 **Mentorship** & Networking
 
 ---
 
@@ -103,12 +103,12 @@ Advanced computer vision system for agricultural disease diagnosis using deep le
 
 | Aspect | Details |
 |--------|---------|
-| **Stack** | Python, TensorFlow, EfficientNet-B4, Flask, React, PWA |
-| **Scale** | 1000+ plant images, real-time inference |
-| **Performance** | 94%+ accuracy on PlantVillage dataset |
-| **Architecture** | Mobile-responsive PWA for farmers |
-| **Impact** | Ideathon 2K26 Submission (LNCT) |
-| **Repository** | [View on GitHub](https://github.com/atifixation) |
+| **🔧 Stack** | Python, TensorFlow, EfficientNet-B4, Flask, React, PWA |
+| **📈 Scale** | 1000+ plant images, real-time inference |
+| **⚡ Performance** | 94%+ accuracy on PlantVillage dataset |
+| **🏗️ Architecture** | Mobile-responsive PWA for farmers |
+| **🎯 Impact** | Ideathon 2K26 Submission (LNCT) |
+| **📂 Repository** | [View on GitHub](https://github.com/atifixation) |
 
 **Overview:** AgroScan AI is a production-ready PWA that enables farmers to diagnose plant diseases using phone camera images. Uses EfficientNet-B4 fine-tuned on PlantVillage dataset with 94%+ accuracy. Built for accessibility and offline functionality.
 
@@ -121,12 +121,12 @@ End-to-end automated video generation system with 20+ independent modules.
 
 | Aspect | Details |
 |--------|---------|
-| **Stack** | Python, OpenCV, FFmpeg, NumPy, AWS (planned) |
-| **Scale** | 20+ autonomous modules, full video pipeline |
-| **Performance** | Batch processing, real-time frame composition |
-| **Architecture** | Modular design, separated concerns |
-| **Tools** | Scene detection, transition generation, audio sync |
-| **Repository** | [View on GitHub](https://github.com/atifixation) |
+| **🔧 Stack** | Python, OpenCV, FFmpeg, NumPy, AWS (planned) |
+| **📈 Scale** | 20+ autonomous modules, full video pipeline |
+| **⚡ Performance** | Batch processing, real-time frame composition |
+| **🏗️ Architecture** | Modular design, separated concerns |
+| **🎨 Tools** | Scene detection, transition generation, audio sync |
+| **📂 Repository** | [View on GitHub](https://github.com/atifixation) |
 
 **Overview:** ReelForge AI automates video creation from raw footage. Handles scene detection, transitions, color grading templates, and audio synchronization. Pitched to VideoVerse and Predis.ai for commercial integration.
 
@@ -139,12 +139,12 @@ Enterprise-grade sci-fi themed React dashboard with advanced UI/UX patterns.
 
 | Aspect | Details |
 |--------|---------|
-| **Stack** | React, Tailwind CSS v4, Node.js, MongoDB |
-| **Scale** | Real-time data visualization, 1000+ component variants |
-| **Performance** | Optimized rendering, lazy loading |
-| **Design** | Sci-fi HUD aesthetic, dark luxury theme |
-| **Features** | Responsive grid, animated transitions, data binding |
-| **Repository** | [View on GitHub](https://github.com/atifixation) |
+| **🔧 Stack** | React, Tailwind CSS v4, Node.js, MongoDB |
+| **📈 Scale** | Real-time data visualization, 1000+ component variants |
+| **⚡ Performance** | Optimized rendering, lazy loading |
+| **🎨 Design** | Sci-fi HUD aesthetic, dark luxury theme |
+| **✨ Features** | Responsive grid, animated transitions, data binding |
+| **📂 Repository** | [View on GitHub](https://github.com/atifixation) |
 
 **Overview:** A futuristic dashboard application showcasing modern React patterns with Tailwind CSS v4. Features a comprehensive sci-fi aesthetic with smooth animations and production-ready component architecture.
 
@@ -157,11 +157,11 @@ Modern e-commerce platform built with React and Vite, demonstrating full-stack i
 
 | Aspect | Details |
 |--------|---------|
-| **Stack** | React, Vite, Tailwind CSS, Axios, REST API |
-| **Scale** | 1000+ product listings, shopping cart, user authentication |
-| **Performance** | <1s page load, lazy loading, code splitting |
-| **Features** | Product filtering, cart management, checkout flow |
-| **Repository** | [View on GitHub](https://github.com/atifixation) |
+| **🔧 Stack** | React, Vite, Tailwind CSS, Axios, REST API |
+| **📈 Scale** | 1000+ product listings, shopping cart, user authentication |
+| **⚡ Performance** | <1s page load, lazy loading, code splitting |
+| **✨ Features** | Product filtering, cart management, checkout flow |
+| **📂 Repository** | [View on GitHub](https://github.com/atifixation) |
 
 **Overview:** Full-featured e-commerce application using FakeStore API. Demonstrates modern frontend patterns, state management, and production-ready deployment practices.
 
@@ -173,36 +173,36 @@ Modern e-commerce platform built with React and Vite, demonstrating full-stack i
 
 <div align="center">
 
-### **B.Tech AI & Data Science Student**
+### **🎓 B.Tech AI & Data Science Student**
 **LNCT Bhopal | RGPV University**  
 *Jan 2024 – Present | 4th Semester*
 
-- CGPA: 7.45 | Target: 8.0+
-- Focused on AI/ML engineering and full-stack development
-- Active participant in hackathons and innovation challenges
-- Published novel and multiple screenplays
+- 🏢 Focused on AI/ML engineering and full-stack development
+- 🏆 Active participant in hackathons and innovation challenges
+- 📚 Published novel and multiple screenplays
+- 🚀 Building production-ready projects
 
 ---
 
-### **MERN Stack Development**
+### **💻 MERN Stack Development**
 **Self-Directed Learning Program**  
 *June 2025 – Present*
 
-- Building backend expertise in Node.js, Express, MongoDB
-- Project-based learning with production-ready code standards
-- Creating daily LinkedIn content on MERN fundamentals
-- Mastering REST API design and database optimization
+- 🔧 Building backend expertise in Node.js, Express, MongoDB
+- 📖 Project-based learning with production-ready code standards
+- 📝 Creating daily LinkedIn content on MERN fundamentals
+- ⚙️ Mastering REST API design and database optimization
 
 ---
 
-### **AI/ML Research & Development**
+### **🤖 AI/ML Research & Development**
 **Personal Projects**  
 *2024 – Present*
 
-- Developed computer vision systems for agricultural applications
-- Built autonomous video processing pipelines
-- Experimented with LLM integrations and prompt engineering
-- Focus on scalability and production deployment
+- 🔬 Developed computer vision systems for agricultural applications
+- 🎬 Built autonomous video processing pipelines
+- 💡 Experimented with LLM integrations and prompt engineering
+- 📊 Focus on scalability and production deployment
 
 </div>
 
@@ -212,29 +212,29 @@ Modern e-commerce platform built with React and Vite, demonstrating full-stack i
 
 | Recognition | Details |
 |-------------|---------|
-| **Ideathon 2K26** | AgroScan AI project submission at LNCT |
-| **Published Novelist** | *The Frequency of the Dead* (co-authored) |
-| **Screenwriter** | Multiple screenplay projects including *BLOOD DEBT* |
-| **Content Creator** | [@atifrecommends](https://instagram.com/atifrecommends) — 500+ followers, psychology/cinema content |
-| **Portfolio Builder** | FrameByFrame cinematic video content brand |
-| **Open Source Contributor** | Active GitHub contributor and collaborator |
+| **🏆 Ideathon 2K26** | AgroScan AI project submission at LNCT |
+| **📖 Published Novelist** | *The Frequency of the Dead* (co-authored) |
+| **🎬 Screenwriter** | Multiple screenplay projects including *BLOOD DEBT* |
+| **📱 Content Creator** | [@atifrecommends](https://instagram.com/atifrecommends) — 500+ followers, psychology/cinema content |
+| **🎥 Video Producer** | FrameByFrame cinematic video content brand |
+| **⭐ Open Source** | Active GitHub contributor and collaborator |
 
 ---
 
 <h2 align="center">🎓 Certifications & Qualifications</h2>
 
-<h3>Google Cloud & AI</h3>
+<h3>☁️ Google Cloud & AI</h3>
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20LLM%20Intro-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Business%20Security-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-<h3>Cisco Networking</h3>
+<h3>🔗 Cisco Networking</h3>
 
 ![Cisco](https://img.shields.io/badge/Cisco%20Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco%20IP%20Network-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco%20Modern%20AI%20Intro-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
-<h3>Analytics & Data</h3>
+<h3>📊 Analytics & Data</h3>
 
 ![Deloitte](https://img.shields.io/badge/Deloitte%20Data%20Analytics-004B87?style=for-the-badge&logo=deloitte&logoColor=white)
 
@@ -265,30 +265,34 @@ Modern e-commerce platform built with React and Vite, demonstrating full-stack i
 
 </div>
 
+<h2 align="center">🐍 Contribution Activity</h2>
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
 ---
 
 <h2 align="center">🎯 Current Focus</h2>
 
 ```yaml
-Learning:
+📚 Learning:
   - Advanced MERN architecture patterns
   - System design fundamentals
   - Database optimization & indexing
   - Cloud deployment (Docker, AWS)
 
-Building:
+🔨 Building:
   - MERN backend microservices
   - Real-time data processing systems
   - AI-powered web applications
   - Production-ready projects
 
-Exploring:
+🔍 Exploring:
   - LLM applications and prompt engineering
   - Distributed systems design
   - DevOps and infrastructure automation
   - Advanced ML deployment strategies
 
-Open To:
+💬 Open To:
   - AI/ML internships and research roles
   - Full-stack MERN development opportunities
   - Freelance projects (data science, backend)
