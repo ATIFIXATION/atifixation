@@ -1,328 +1,257 @@
-<a href="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=200&section=header&text=Atif%20Khan&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Building%20Intelligent%20Systems&descAlignY=55&descSize=20">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=200&section=header&text=Atif%20Khan&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Building%20Intelligent%20Systems&descAlignY=55&descSize=20" />
+<a href="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a1a,100:D4AF37&height=260&section=header&text=Atif%20Khan&fontSize=75&fontColor=D4AF37&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%E2%80%94%20Storyteller%20%E2%80%94%20Builder&descAlignY=58&descSize=18&descColor=E8E8E8">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a1a,100:D4AF37&height=260&section=header&text=Atif%20Khan&fontSize=75&fontColor=D4AF37&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%E2%80%94%20Storyteller%20%E2%80%94%20Builder&descAlignY=58&descSize=18&descColor=E8E8E8" />
 </a>
 
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Engineer;Full+Stack+MERN+Developer;Building+ML+Solutions+at+Scale;Open+to+Internships+%26+Collaborations)
-  
-  [![Profile Views](https://komarev.com/ghpvc/?username=atifixation&color=667eea&style=flat-square&label=Profile%20Views)](https://github.com/atifixation)
-  [![Followers](https://img.shields.io/github/followers/atifixation?style=flat-square&color=667eea&label=Followers)](https://github.com/atifixation)
-  [![Stars](https://img.shields.io/github/stars/atifixation?style=flat-square&color=667eea&label=Total%20Stars)](https://github.com/atifixation?tab=stars)
-  
-  📧 **Email:** atif64896@gmail.com | 🌐 **Portfolio:** [atifixation.github.io](https://atifixation.github.io/new-work)
-  
-  📍 Bhopal, Madhya Pradesh | 🎓 B.Tech AI & Data Science @ LNCT Bhopal
-  
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&duration=3500&pause=900&color=D4AF37&center=true&vCenter=true&width=900&lines=Building+intelligent+systems%2C+one+late+night+at+a+time;MERN+Backend+%2B+AI%2FML+%2B+a+stubborn+curiosity;Currently+writing%2C+coding%2C+and+arguing+with+Nietzsche;Open+to+internships+%E2%80%94+and+good+conversation)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=atifixation&color=D4AF37&style=flat-square&label=Profile+Views)](https://github.com/atifixation)
+[![Followers](https://img.shields.io/github/followers/atifixation?style=flat-square&color=D4AF37&label=Followers&labelColor=0d0d0d)](https://github.com/atifixation)
+[![Stars](https://img.shields.io/github/stars/atifixation?style=flat-square&color=D4AF37&label=Stars&labelColor=0d0d0d)](https://github.com/atifixation?tab=stars)
+
+📧 atif64896@gmail.com &nbsp;|&nbsp; 🌐 [Portfolio](https://atifixation.github.io/new-work) &nbsp;|&nbsp; 📍 Bhopal, India &nbsp;|&nbsp; 🎓 B.Tech AI & DS, LNCT Bhopal (RGPV)
+
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%">
 
-<h2 align="center">🚀 About Me</h2>
+## 🖋️ A Word Before the Code
 
-I'm a **B.Tech AI & Data Science student** at LNCT Bhopal, passionate about building intelligent systems that solve real-world problems. My expertise spans **machine learning**, **full-stack development**, and **data engineering**.
+I did not start out writing software. I started out writing sentences — a novel first, then screenplays, then the quiet arguments with Dostoevsky and Camus that still shape how I think about anything worth building. Somewhere along the way I realized code is just another kind of sentence: a thing you write so that something, later, will make sense to someone else.
 
-I'm actively pursuing internships in **AI/Data Science & MERN Backend Development**, focusing on building scalable solutions and contributing to open-source projects.
+So that's what I'm doing here. I'm a 4th-semester AI & Data Science student at LNCT Bhopal, learning the MERN stack on the side, working part-time as a researcher at Techtonic, and trying — slowly, stubbornly — to become someone who can build things that matter. Not perfect things. Working things.
 
-**What I'm currently doing:**
-- 🤖 **Building** ML solutions and AI pipelines
-- 💻 **Mastering** MERN stack backend architecture
-- 📚 **Learning** advanced data structures and system design
-- 🎬 **Creating** cinematic content for [@atifrecommends](https://instagram.com/atifrecommends)
-- 📖 **Publishing** technical content on LinkedIn
+When I'm not doing that, I'm running two small creative worlds of my own: **FrameByFrame**, where I make cinematic video content, and **@atifrecommends**, where I write about books, films, and the psychology underneath both. I co-wrote a novel called *The Frequency of the Dead*. I still think in scenes before I think in features.
 
-**Open To:**
-- 💼 **AI/ML Internships** & Freelance Projects
-- 🔗 **MERN Backend Development** Opportunities
-- 🤝 **Open Source** Collaboration
-- 📧 **Mentorship** & Networking
+<details>
+<summary><b>🎯 What I'm actually chasing right now</b></summary>
+<br>
 
----
+- Getting my CGPA from 7.45 toward 8+, with an eye on an MSc in Data Science in Germany (FAU Erlangen-Nuremberg, RWTH Aachen)
+- Turning MERN backend theory into muscle memory — one project, one broken terminal, one fix at a time
+- Building AI systems that solve problems for people who'll never read the code, like farmers or small business owners
+- Reading more Kafka than is probably healthy
+- Watching the 2026 World Cup like it owes me money
 
-<h2 align="center">💾 Tech Stack</h2>
+</details>
 
-<h3>📊 Languages</h3>
+<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+## 💾 Tools of the Trade
 
-<h3>🎨 Frontend</h3>
+<h4 align="center">Languages</h4>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=D4AF37">
+<img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=D4AF37">
+<img src="https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=java&logoColor=D4AF37">
+<img src="https://img.shields.io/badge/SQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=D4AF37">
+</p>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<h4 align="center">Frontend</h4>
+<p align="center">
+<img src="https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=D4AF37">
+<img src="https://img.shields.io/badge/Tailwind%20CSS-0d0d0d?style=for-the-badge&logo=tailwindcss&logoColor=D4AF37">
+<img src="https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=D4AF37">
+<img src="https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=D4AF37">
+</p>
 
-<h3>⚙️ Backend & Databases</h3>
+<h4 align="center">Backend & Databases</h4>
+<p align="center">
+<img src="https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=node.js&logoColor=D4AF37">
+<img src="https://img.shields.io/badge/Express.js-0d0d0d?style=for-the-badge&logo=express&logoColor=D4AF37">
+<img src="https://img.shields.io/badge/MongoDB-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=D4AF37">
+<img src="https://img.shields.io/badge/Flask-0d0d0d?style=for-the-badge&logo=flask&logoColor=D4AF37">
+<img src="https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=D4AF37">
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<h4 align="center">AI / ML & Data Science</h4>
+<p align="center">
+<img src="https://img.shields.io/badge/TensorFlow-0d0d0d?style=for-the-badge&logo=tensorflow&logoColor=D4AF37">
+<img src="https://img.shields.io/badge/Pandas-0d0d0d?style=for-the-badge&logo=pandas&logoColor=D4AF37">
+<img src="https://img.shields.io/badge/NumPy-0d0d0d?style=for-the-badge&logo=numpy&logoColor=D4AF37">
+<img src="https://img.shields.io/badge/Scikit--Learn-0d0d0d?style=for-the-badge&logo=scikit-learn&logoColor=D4AF37">
+<img src="https://img.shields.io/badge/OpenCV-0d0d0d?style=for-the-badge&logo=opencv&logoColor=D4AF37">
+</p>
 
-<h3>🤖 AI/ML & Data Science</h3>
+<h4 align="center">Tools & DevOps</h4>
+<p align="center">
+<img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=D4AF37">
+<img src="https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=D4AF37">
+<img src="https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=D4AF37">
+<img src="https://img.shields.io/badge/VS%20Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=D4AF37">
+<img src="https://img.shields.io/badge/Postman-0d0d0d?style=for-the-badge&logo=postman&logoColor=D4AF37">
+</p>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%">
 
-<h3>🛠️ Tools & DevOps</h3>
+## 🎯 Where I've Put the Work
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+| Domain | Level | The Honest Version |
+|---|:---:|---|
+| **Computer Vision** | ⭐⭐⭐⭐ | EfficientNet, PlantVillage, OpenCV — the stuff I trust most right now |
+| **Deep Learning** | ⭐⭐⭐⭐ | CNNs, transfer learning, enough to be dangerous |
+| **Machine Learning** | ⭐⭐⭐⭐ | Supervised/unsupervised, evaluation, tuning — the fundamentals, drilled |
+| **Data Engineering** | ⭐⭐⭐ | ETL, preprocessing, feature engineering — still sharpening this |
+| **NLP & LLMs** | ⭐⭐⭐ | Claude API, prompt engineering, building agentic pipelines |
+| **System Design** | ⭐⭐⭐ | Learning to think in architectures, not just scripts |
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%">
 
-<h2 align="center">🎯 AI/ML Expertise</h2>
-
-| Domain | Proficiency | Details |
-|--------|-------------|---------|
-| **Computer Vision** | ⭐⭐⭐⭐ | EfficientNet, PlantVillage dataset, OpenCV pipelines, image classification |
-| **Deep Learning** | ⭐⭐⭐⭐ | CNN architectures, model optimization, transfer learning |
-| **Data Engineering** | ⭐⭐⭐ | ETL pipelines, data preprocessing, feature engineering |
-| **Machine Learning** | ⭐⭐⭐⭐ | Supervised/Unsupervised learning, model evaluation, hyperparameter tuning |
-| **NLP & LLMs** | ⭐⭐⭐ | Working with Claude API, prompt engineering, text processing |
-| **System Design** | ⭐⭐⭐ | Scalable architectures, API design, database optimization |
-
----
-
-<h2 align="center">🏆 Featured Projects</h2>
+## 🏆 Things I've Actually Built
 
 <details open>
-<summary><b>🌾 AgroScan AI — Plant Disease Detection</b></summary>
+<summary><b>🌾 AgroScan AI — Plant Disease Detection (94%+ accuracy)</b></summary>
+<br>
 
-Advanced computer vision system for agricultural disease diagnosis using deep learning.
+A PWA that lets a farmer point a phone camera at a sick plant and get an answer, no lab required.
 
-| Aspect | Details |
-|--------|---------|
-| **🔧 Stack** | Python, TensorFlow, EfficientNet-B4, Flask, React, PWA |
-| **📈 Scale** | 1000+ plant images, real-time inference |
-| **⚡ Performance** | 94%+ accuracy on PlantVillage dataset |
-| **🏗️ Architecture** | Mobile-responsive PWA for farmers |
-| **🎯 Impact** | Ideathon 2K26 Submission (LNCT) |
-| **📂 Repository** | [View on GitHub](https://github.com/atifixation) |
+`Python` `TensorFlow` `EfficientNet-B4` `Flask` `React` `PWA`
 
-**Overview:** AgroScan AI is a production-ready PWA that enables farmers to diagnose plant diseases using phone camera images. Uses EfficientNet-B4 fine-tuned on PlantVillage dataset with 94%+ accuracy. Built for accessibility and offline functionality.
+Trained on 1000+ images from the PlantVillage dataset, built offline-first for low-connectivity use. Submitted to Ideathon 2K26 at LNCT — because the best test of a model is whether someone who isn't a developer can actually use it.
 
+[View on GitHub →](https://github.com/atifixation)
 </details>
 
 <details>
 <summary><b>🎬 ReelForge AI — Autonomous Video Production Pipeline</b></summary>
+<br>
 
-End-to-end automated video generation system with 20+ independent modules.
+20+ modules that take raw footage in and hand a finished video out — scene detection, transitions, color grading, audio sync, no human in the loop.
 
-| Aspect | Details |
-|--------|---------|
-| **🔧 Stack** | Python, OpenCV, FFmpeg, NumPy, AWS (planned) |
-| **📈 Scale** | 20+ autonomous modules, full video pipeline |
-| **⚡ Performance** | Batch processing, real-time frame composition |
-| **🏗️ Architecture** | Modular design, separated concerns |
-| **🎨 Tools** | Scene detection, transition generation, audio sync |
-| **📂 Repository** | [View on GitHub](https://github.com/atifixation) |
+`Python` `OpenCV` `FFmpeg` `NumPy`
 
-**Overview:** ReelForge AI automates video creation from raw footage. Handles scene detection, transitions, color grading templates, and audio synchronization. Pitched to VideoVerse and Predis.ai for commercial integration.
+Born out of editing my own cinematic reels for FrameByFrame and getting tired of doing it by hand. Pitched to VideoVerse and Predis.ai for commercial integration.
 
+[View on GitHub →](https://github.com/atifixation)
 </details>
 
 <details>
-<summary><b>⚛️ nexus-web-labs — MERN HUD Dashboard</b></summary>
+<summary><b>⚛️ nexus-web-labs — Sci-Fi HUD Dashboard</b></summary>
+<br>
 
-Enterprise-grade sci-fi themed React dashboard with advanced UI/UX patterns.
+A dark, futuristic dashboard I built to see how far Tailwind v4 and React could stretch a single aesthetic idea.
 
-| Aspect | Details |
-|--------|---------|
-| **🔧 Stack** | React, Tailwind CSS v4, Node.js, MongoDB |
-| **📈 Scale** | Real-time data visualization, 1000+ component variants |
-| **⚡ Performance** | Optimized rendering, lazy loading |
-| **🎨 Design** | Sci-fi HUD aesthetic, dark luxury theme |
-| **✨ Features** | Responsive grid, animated transitions, data binding |
-| **📂 Repository** | [View on GitHub](https://github.com/atifixation) |
+`React` `Tailwind CSS v4` `Node.js` `MongoDB`
 
-**Overview:** A futuristic dashboard application showcasing modern React patterns with Tailwind CSS v4. Features a comprehensive sci-fi aesthetic with smooth animations and production-ready component architecture.
-
+[View on GitHub →](https://github.com/atifixation)
 </details>
 
 <details>
-<summary><b>📱 FakeStore React/Vite — E-Commerce Frontend</b></summary>
+<summary><b>📱 FakeStore — Full E-Commerce Frontend</b></summary>
+<br>
 
-Modern e-commerce platform built with React and Vite, demonstrating full-stack integration patterns.
+Product filtering, cart, checkout — a full commerce flow built to actually understand state management, not just read about it.
 
-| Aspect | Details |
-|--------|---------|
-| **🔧 Stack** | React, Vite, Tailwind CSS, Axios, REST API |
-| **📈 Scale** | 1000+ product listings, shopping cart, user authentication |
-| **⚡ Performance** | <1s page load, lazy loading, code splitting |
-| **✨ Features** | Product filtering, cart management, checkout flow |
-| **📂 Repository** | [View on GitHub](https://github.com/atifixation) |
+`React` `Vite` `Tailwind CSS` `Axios`
 
-**Overview:** Full-featured e-commerce application using FakeStore API. Demonstrates modern frontend patterns, state management, and production-ready deployment practices.
-
+[View on GitHub →](https://github.com/atifixation)
 </details>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%">
 
-<h2 align="center">💼 Experience</h2>
-
-<div align="center">
-
-### **🎓 B.Tech AI & Data Science Student**
-**LNCT Bhopal | RGPV University**  
-*Jan 2024 – Present | 4th Semester*
-
-- 🏢 Focused on AI/ML engineering and full-stack development
-- 🏆 Active participant in hackathons and innovation challenges
-- 📚 Published novel and multiple screenplays
-- 🚀 Building production-ready projects
-
----
-
-### **💻 MERN Stack Development**
-**Self-Directed Learning Program**  
-*June 2025 – Present*
-
-- 🔧 Building backend expertise in Node.js, Express, MongoDB
-- 📖 Project-based learning with production-ready code standards
-- 📝 Creating daily LinkedIn content on MERN fundamentals
-- ⚙️ Mastering REST API design and database optimization
-
----
-
-### **🤖 AI/ML Research & Development**
-**Personal Projects**  
-*2024 – Present*
-
-- 🔬 Developed computer vision systems for agricultural applications
-- 🎬 Built autonomous video processing pipelines
-- 💡 Experimented with LLM integrations and prompt engineering
-- 📊 Focus on scalability and production deployment
-
-</div>
-
----
-
-<h2 align="center">🏅 Achievements & Recognition</h2>
-
-| Recognition | Details |
-|-------------|---------|
-| **🏆 Ideathon 2K26** | AgroScan AI project submission at LNCT |
-| **📖 Published Novelist** | *The Frequency of the Dead* (co-authored) |
-| **🎬 Screenwriter** | Multiple screenplay projects including *BLOOD DEBT* |
-| **📱 Content Creator** | [@atifrecommends](https://instagram.com/atifrecommends) — 500+ followers, psychology/cinema content |
-| **🎥 Video Producer** | FrameByFrame cinematic video content brand |
-| **⭐ Open Source** | Active GitHub contributor and collaborator |
-
----
-
-<h2 align="center">🎓 Certifications & Qualifications</h2>
-
-<h3>☁️ Google Cloud & AI</h3>
-
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20LLM%20Intro-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Business%20Security-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-<h3>🔗 Cisco Networking</h3>
-
-![Cisco](https://img.shields.io/badge/Cisco%20Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco%20IP%20Network-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco%20Modern%20AI%20Intro-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-<h3>📊 Analytics & Data</h3>
-
-![Deloitte](https://img.shields.io/badge/Deloitte%20Data%20Analytics-004B87?style=for-the-badge&logo=deloitte&logoColor=white)
-
----
-
-<h2 align="center">💻 Coding Profiles</h2>
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/atifixation)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9F1C?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4D3D?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com)
-
-</div>
-
----
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atifixation&show_icons=true&theme=tokyonight&hide_border=true&title_color=667eea&icon_color=667eea)](https://github.com/atifixation)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atifixation&layout=compact&theme=tokyonight&hide_border=true&title_color=667eea)](https://github.com/atifixation)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=atifixation&theme=tokyonight&hide_border=true&stroke=667eea&ring=667eea&fire=667eea&currStreakNum=667eea&sideNums=667eea&currStreakLabel=667eea&dates=667eea)](https://github.com/atifixation)
-
-</div>
-
-<h2 align="center">🐍 Contribution Activity</h2>
-
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
-
----
-
-<h2 align="center">🎯 Current Focus</h2>
+## 💼 The Timeline
 
 ```yaml
-📚 Learning:
-  - Advanced MERN architecture patterns
-  - System design fundamentals
-  - Database optimization & indexing
-  - Cloud deployment (Docker, AWS)
+Now:
+  role: "B.Tech AI & DS Student, LNCT Bhopal (RGPV)"
+  since: "Jan 2024"
+  also: "Part-time Researcher @ Techtonic, Bhopal"
 
-🔨 Building:
-  - MERN backend microservices
-  - Real-time data processing systems
-  - AI-powered web applications
-  - Production-ready projects
+Since June 2025:
+  learning: "MERN Stack — backend architecture, REST APIs, MongoDB"
+  method: "Project-based, documented publicly on LinkedIn"
 
-🔍 Exploring:
-  - LLM applications and prompt engineering
-  - Distributed systems design
-  - DevOps and infrastructure automation
-  - Advanced ML deployment strategies
-
-💬 Open To:
-  - AI/ML internships and research roles
-  - Full-stack MERN development opportunities
-  - Freelance projects (data science, backend)
-  - Collaborative open-source projects
+Ongoing:
+  ai_research: "Computer vision, video automation, LLM pipelines"
+  writing: "Published novelist, screenwriter, content creator"
+  goal: "MSc Data Science in Germany — FAU / RWTH Aachen"
 ```
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%">
 
-<h2 align="center">🤝 Let's Connect</h2>
+## 🎓 Certifications
+
+<p align="center">
+<img src="https://img.shields.io/badge/Google%20Cloud%20LLM%20Intro-0d0d0d?style=for-the-badge&logo=google-cloud&logoColor=D4AF37">
+<img src="https://img.shields.io/badge/Cisco%20Modern%20AI-0d0d0d?style=for-the-badge&logo=cisco&logoColor=D4AF37">
+<img src="https://img.shields.io/badge/Cisco%20Networking-0d0d0d?style=for-the-badge&logo=cisco&logoColor=D4AF37">
+<img src="https://img.shields.io/badge/Deloitte%20Data%20Analytics-0d0d0d?style=for-the-badge&logo=deloitte&logoColor=D4AF37">
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%">
+
+## 📊 The Numbers Behind the Commits
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atif64896@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atifixation)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atifixation)
-[![Portfolio](https://img.shields.io/badge/Portfolio-667EEA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://atifixation.github.io/new-work)
-[![Instagram](https://img.shields.io/badge/@atifrecommends-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/atifrecommends)
+<img src="https://github-readme-stats.vercel.app/api?username=atifixation&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=D4AF37&icon_color=D4AF37&text_color=E8E8E8" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atifixation&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=D4AF37&text_color=E8E8E8" />
+
+<img src="https://streak-stats.demolab.com?user=atifixation&theme=dark&hide_border=true&background=0d0d0d&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=atifixation&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10" />
 
 </div>
 
----
+### 🐍 A Year, Distilled
 
-<a href="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=120&section=footer">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=120&section=footer" />
+<div align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%">
+
+## 🎬 Off the Keyboard
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+**📖 Currently rereading**
+Crime and Punishment — again, because some books aren't meant to be finished once.
+
+**🎥 Directing style I'm chasing**
+Irfan Junejo's honesty behind a camera, minus the budget.
+
+**⚽ Watching**
+World Cup 2026, with opinions I will not keep to myself.
+
+</td>
+<td width="50%" valign="top">
+
+**✍️ Wrote**
+*The Frequency of the Dead* — a novel, co-authored, about ghosts that are really just unfinished conversations.
+
+**🏋️ Training for**
+Recomposition, not aesthetics — though I won't pretend I don't care about both.
+
+**🌍 Studying next**
+Urdu, and the German education system, in that order.
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%">
+
+<div align="center">
+
+## 🤝 Reach Out
+
+[![Email](https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=D4AF37)](mailto:atif64896@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=D4AF37)](https://linkedin.com/in/atifixation)
+[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/atifixation)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=google-chrome&logoColor=D4AF37)](https://atifixation.github.io/new-work)
+[![Instagram](https://img.shields.io/badge/@atifrecommends-0d0d0d?style=for-the-badge&logo=instagram&logoColor=D4AF37)](https://instagram.com/atifrecommends)
+
+<br>
+
+*"Most people build to be seen. I'm trying to build things that would still be worth something if no one ever looked."*
+
+</div>
+
+<a href="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,50:1a1a1a,100:0d0d0d&height=120&section=footer">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,50:1a1a1a,100:0d0d0d&height=120&section=footer" />
 </a>
-
-<div align="center">
-  
-  **"Build systems that solve problems. Write code that scales. Create work that matters."**
-  
-  Made with ❤️ by [Atif Khan](https://github.com/atifixation)
-  
-</div>
