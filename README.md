@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=atifixation&color=D4AF37&style=for-the-badge&label=VISITORS" />
 <img src="https://img.shields.io/github/followers/atifixation?style=for-the-badge&color=D4AF37&labelColor=0d0d0d&label=FOLLOWERS" />
 
-📧 [Email](mailto:atif64896@gmail.com) &nbsp;·&nbsp; 📄 [Resume](./Atif_Khan_Resume%20.pdf) &nbsp;·&nbsp; 🌐 [Portfolio](https://atifixation.github.io/new-work) &nbsp;·&nbsp; 📍 Bhopal, India
+📧 [Email](mailto:atif64896@gmail.com) &nbsp;·&nbsp; 📄 [Resume](./Atif_Khan_Resume.pdf) &nbsp;·&nbsp; 🌐 [Portfolio](https://atifixation.github.io/new-work) &nbsp;·&nbsp; 📍 Bhopal, India
 
 </div>
 
@@ -135,7 +135,7 @@ A personal creative presence for cinematic content and storytelling, combining w
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atifixation&bg_color=0d0d0d&color=D4AF37&line=D4AF37&point=E8E8E8&area=true&area_color=D4AF37&hide_border=true&title_color=D4AF37&custom_title=Contribution%20activity" alt="Contribution activity graph" width="100%" />
+<img src="https://streak-stats.demolab.com?user=atifixation&theme=dark&hide_border=true&background=0d0d0d&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=D4AF37&currStreakNum=E8E8E8&sideNums=E8E8E8&dates=8b8b8b" alt="GitHub streak stats" />
 
 <br>
 
@@ -157,13 +157,13 @@ A personal creative presence for cinematic content and storytelling, combining w
 
 <div align="center">
 
-<a href="./Atif_Khan_Resume%20.pdf">
+<a href="./Atif_Khan_Resume.pdf">
   <img src="./resume-preview.png" width="640" alt="Atif Khan resume preview" />
 </a>
 
 <br><br>
 
-<a href="./Atif_Khan_Resume%20.pdf"><img src="https://img.shields.io/badge/Download%20Resume%20(PDF)-0d0d0d?style=for-the-badge&logo=adobeacrobatreader&logoColor=D4AF37" /></a>
+<a href="./Atif_Khan_Resume.pdf"><img src="https://img.shields.io/badge/Download%20Resume%20(PDF)-0d0d0d?style=for-the-badge&logo=adobeacrobatreader&logoColor=D4AF37" /></a>
 
 </div>
 
