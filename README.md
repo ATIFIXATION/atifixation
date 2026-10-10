@@ -4,185 +4,173 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=D4AF37&center=true&vCenter=true&width=920&lines=root%40atif%3A~%24+whoami;AI+%26+Data+Science+engineer+%2F%2F+MERN+backend+in+progress;also%3A+novelist%2C+screenwriter%2C+chronic+overthinker;root%40atif%3A~%24+status+--current;building+things+that+work+before+they+look+pretty)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=D4AF37&center=true&vCenter=true&width=920&lines=root%40atif%3A~%24+whoami;AI+%26+Data+Science+student+%7C+MERN+Stack+developer;building+web+apps+and+AI+projects+with+purpose;writer+by+instinct%2C+engineer+by+discipline)
 
 <img src="https://komarev.com/ghpvc/?username=atifixation&color=D4AF37&style=for-the-badge&label=VISITORS" />
 <img src="https://img.shields.io/github/followers/atifixation?style=for-the-badge&color=D4AF37&labelColor=0d0d0d&label=FOLLOWERS" />
-<img src="https://img.shields.io/github/stars/atifixation?style=for-the-badge&color=D4AF37&labelColor=0d0d0d&label=STARS" />
 
-📧 atif64896@gmail.com &nbsp;·&nbsp; 🌐 [Portfolio](https://atifixation.github.io/new-work) &nbsp;·&nbsp; 📍 Bhopal, India
+📧 [Email](mailto:atif64896@gmail.com) &nbsp;·&nbsp; 📄 [Resume](./Atif_Khan_Resume.pdf) &nbsp;·&nbsp; 🌐 [Portfolio](https://atifixation.github.io/new-work) &nbsp;·&nbsp; 📍 Bhopal, India
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%">
 
-<table width="100%">
-<tr>
-<td width="100%">
+## `whoami`
 
-```
-╭──────────────────────────────────────────────────────────────╮
-│  a note, before the badges start                              │
-╰──────────────────────────────────────────────────────────────╯
-```
+I'm Atif Khan, a 5th-semester B.Tech student in Artificial Intelligence & Data Science at RGPV, Bhopal, and a part-time researcher at **Techtonic**, a software engineering studio. I build full-stack apps with the **MERN stack** and train deep learning models for practical AI applications.
 
-I wrote a novel before I wrote a for-loop. That order matters more than it should — it's why I can't look at a broken function without wanting to know *why* it broke, not just how to patch it. Dostoevsky ruined me for shortcuts a long time ago.
+I also write screenplays and creative fiction. That side of me shapes how I approach software: understand the problem, think through the user's journey, and make the final experience feel intentional.
 
-Right now I'm a 4th-semester AI & Data Science student at LNCT Bhopal, part-time researcher at Techtonic, and somewhere in the middle of teaching myself the MERN stack one stubborn terminal error at a time. Outside of that I run **FrameByFrame** (cinematic video) and **@atifrecommends** (books, film, psychology) — same instinct, different medium. Everything I make is trying to answer the same question: *does this actually hold up, or does it just look like it does?*
-
-That's the whole pitch. Here's the proof.
-
-</td>
-</tr>
-</table>
+**Current focus:** full-stack web development, AI-powered products, and internship opportunities in software, AI/ML and data roles.
 
 <img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%">
 
-## ⚙️ Stack
+## 💼 Experience
+
+**Part-Time Researcher · Techtonic, Bhopal**
+- B2B lead generation and data enrichment: structured Bhopal business leads and European B2B leads for outreach.
+- Assisted with the company website.
+
+<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%">
+
+## ⚙️ Tech stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,java,postgres,react,tailwind,html,css,nodejs,express,mongodb,flask,tensorflow,opencv,git,docker,linux,vscode,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,vite,tailwind,html,css,nodejs,express,flask,mongodb,postgres,tensorflow,opencv,pandas,numpy,git,github,vscode&theme=dark" />
+</p>
+
+<p align="center">
+  <b>Languages:</b> Python · Java · JavaScript · SQL<br>
+  <b>Frontend:</b> React · Vite · Tailwind CSS · React Router · HTML · CSS<br>
+  <b>Backend & databases:</b> Node.js · Express.js · Flask · REST APIs · MongoDB · PostgreSQL<br>
+  <b>AI & data:</b> Machine Learning · Deep Learning (EfficientNet) · TensorFlow · OpenCV · Pandas · NumPy<br>
+  <b>Tools:</b> Git · GitHub · GitHub Pages · FFmpeg · VS Code
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%">
 
-## 🎯 Where the reps actually happened
-
-<div align="center">
-
-| Domain | Grind Level | Honest Take |
-|---|:---:|---|
-| **Computer Vision** | ████████░░ | EfficientNet, PlantVillage, OpenCV — this is where I'm most dangerous |
-| **Deep Learning** | ████████░░ | CNNs, transfer learning, enough to be useful |
-| **Machine Learning** | ████████░░ | Supervised/unsupervised, tuning, evaluation — drilled, not guessed |
-| **Data Engineering** | ██████░░░░ | ETL, preprocessing — still sharpening the edge here |
-| **NLP / LLMs** | ██████░░░░ | Claude API, prompt engineering, agentic pipelines |
-| **System Design** | ██████░░░░ | Learning to think in architectures, not scripts |
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%">
-
-## 🏆 Things that exist because I got annoyed enough to build them
+## 🚀 Featured work
 
 <details open>
-<summary><b>🌾 AgroScan AI — plant disease detection, 94%+ accuracy</b></summary>
+<summary><b>🍽️ Cravings — Food discovery & delivery platform</b></summary>
 <br>
 
-A farmer points a phone at a sick leaf, gets an answer, no lab required. Built offline-first, because "just use the cloud" isn't advice you can give someone with two bars of signal.
+A food platform designed to go beyond a basic delivery interface, combining restaurant discovery with ranking and mood/ambience-based exploration. Built with a React (Vite) frontend, a Node.js/Express REST API and MongoDB.
 
-`Python` `TensorFlow` `EfficientNet-B4` `Flask` `React` `PWA`
-Submitted to Ideathon 2K26, LNCT.
+**Focus:** user experience, component-based UI, API integration (CORS, documentation) and deployment.
 
-[View on GitHub →](https://github.com/atifixation)
+`React` `Vite` `Tailwind CSS` `Node.js` `Express.js` `MongoDB`
+
+</details>
+
+<details open>
+<summary><b>🌿 AgroScan AI — Plant disease detection</b></summary>
+<br>
+
+A plant disease detection system using an **EfficientNet-B4** model trained on the PlantVillage dataset, served through a Flask API with a React Progressive Web App interface. Presented at Ideathon 2K26.
+
+`Python` `EfficientNet-B4` `Flask` `React` `PWA`
+
+</details>
+
+<details open>
+<summary><b>🩺 ArogyaSathi — Community healthcare workflow</b></summary>
+<br>
+
+A healthcare-focused application built around a workflow connecting **citizens, ASHA workers, and health officers**. The project uses a React + Vite frontend, a REST API with Node.js/Express, and PostgreSQL for data storage.
+
+**Focus:** role-based workflows, structured health-service coordination, and full-stack integration.
+
+`React` `Vite` `Node.js` `Express.js` `REST API` `PostgreSQL`
+
+</details>
+
+<details open>
+<summary><b>🎯 CareerLens — AI resume analyzer & mock interviews</b></summary>
+<br>
+
+An AI-powered platform that analyzes resumes and runs mock interviews, built for the Hack in Motion hackathon. I developed the frontend.
+
+`React` `AI`
+
 </details>
 
 <details>
-<summary><b>🎬 ReelForge AI — autonomous video production pipeline</b></summary>
+<summary><b>🎞️ ReelForge AI — Autonomous cinematic reel editor</b></summary>
 <br>
 
-20+ modules, raw footage in, finished video out. I built this because I got tired of editing my own FrameByFrame reels by hand at 2am. Pitched to VideoVerse and Predis.ai.
+A 20-module video editing pipeline built with computer vision and video processing, pitched to the founders of VideoVerse and Predis.ai.
 
 `Python` `OpenCV` `FFmpeg` `NumPy`
 
-[View on GitHub →](https://github.com/atifixation)
 </details>
 
 <details>
-<summary><b>⚛️ nexus-web-labs — sci-fi HUD dashboard</b></summary>
+<summary><b>🔐 Anonymous Confession Hub — Full-stack web app</b></summary>
 <br>
 
-A dark, futuristic dashboard built to see how far one aesthetic idea could stretch across a whole app.
+A web platform for publishing anonymous posts, with a React frontend and a Node/Express API backed by MongoDB.
 
-`React` `Tailwind CSS v4` `Node.js` `MongoDB`
+`MongoDB` `Express.js` `React` `Node.js`
 
-[View on GitHub →](https://github.com/atifixation)
 </details>
 
 <details>
-<summary><b>📱 FakeStore — full e-commerce frontend</b></summary>
+<summary><b>🎬 FrameByFrame — Portfolio & creative brand</b></summary>
 <br>
 
-Cart, checkout, filtering — built to actually understand state management instead of just reading about it.
+A personal creative presence for cinematic content and storytelling, combining web publishing with interests in film, books, and visual narratives.
 
-`React` `Vite` `Tailwind CSS` `Axios`
+`HTML` `CSS` `GitHub Pages`
 
-[View on GitHub →](https://github.com/atifixation)
 </details>
 
 <img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%">
 
-## 📈 The contribution graph doesn't lie
+## 🥉 Recognition & certifications
+
+- **3rd Rank, Project Category — RICR Hackathon**
+- **Hackathons:** Hack in Motion (CareerLens) · Ideathon 2K26 (AgroScan AI)
+- **Certifications:** Google Cloud (Intro to Large Language Models) · Google Business Security · Cisco (IP Network, Networking Basics, Modern AI Introduction) · Deloitte Data Analytics Job Simulation
+
+<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%">
+
+## 📄 Resume
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atifixation&theme=react-dark&bg_color=0d0d0d&color=D4AF37&line=D4AF37&point=E8E8E8&area=true&hide_border=true" width="100%"/>
-</div>
 
-<div align="center">
+<a href="./Atif_Khan_Resume.pdf">
+  <img src="./assets/resume-preview.png" width="640" alt="Atif Khan resume preview" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=atifixation&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=D4AF37&icon_color=D4AF37&text_color=E8E8E8" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atifixation&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=D4AF37&text_color=E8E8E8" />
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=atifixation&theme=dark&hide_border=true&background=0d0d0d&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" />
+<a href="./Atif_Khan_Resume.pdf"><img src="https://img.shields.io/badge/Download%20Resume%20(PDF)-0d0d0d?style=for-the-badge&logo=adobeacrobatreader&logoColor=D4AF37" /></a>
 
-<img src="https://github-profile-trophy.vercel.app/?username=atifixation&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
-
-</div>
-
-### 🐍 a year, eaten one commit at a time
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%">
 
-## 🎬 Off the keyboard
+## 🎬 Beyond code
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-**📖 rereading**
-*Crime and Punishment* — some books aren't meant to be finished once.
-
-**🎥 chasing this style**
-Irfan Junejo's honesty on camera, minus his budget.
-
-**⚽ watching**
-World Cup 2026. I have opinions. I will share them unprompted.
-
-</td>
-<td width="50%" valign="top">
-
-**✍️ wrote**
-*The Frequency of the Dead* — co-authored, about ghosts that are really just unfinished conversations.
-
-**🏋️ training for**
-recomposition, not aesthetics. mostly aesthetics.
-
-**🗣️ learning**
-Urdu. slower than my code compiles.
-
-</td>
-</tr>
-</table>
+- **Writing:** screenwriting and creative fiction, including the co-authored novel *The Frequency of the Dead*.
+- **Film:** FrameByFrame, cinematic storytelling, editing, and visual content.
+- **Reading:** @atifrecommends, my content on books, film and psychology.
 
 <img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%">
 
-<div align="center">
+## 📡 Connect
 
-## 📡 Reach out
+<div align="center">
 
 <a href="mailto:atif64896@gmail.com"><img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=D4AF37" /></a>
 <a href="https://linkedin.com/in/atifixation"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=D4AF37" /></a>
 <a href="https://github.com/atifixation"><img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=D4AF37" /></a>
 <a href="https://atifixation.github.io/new-work"><img src="https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=google-chrome&logoColor=D4AF37" /></a>
-<a href="https://instagram.com/atifrecommends"><img src="https://img.shields.io/badge/@atifrecommends-0d0d0d?style=for-the-badge&logo=instagram&logoColor=D4AF37" /></a>
 
 <br><br>
 
-*"most people build to be seen. I'm trying to build things that would still hold up if no one ever looked."*
+*“Build things that hold up, even when nobody is watching.”*
 
 </div>
 
