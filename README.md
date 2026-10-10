@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=atifixation&color=D4AF37&style=for-the-badge&label=VISITORS" />
 <img src="https://img.shields.io/github/followers/atifixation?style=for-the-badge&color=D4AF37&labelColor=0d0d0d&label=FOLLOWERS" />
 
-📧 [Email](mailto:atif64896@gmail.com) &nbsp;·&nbsp; 📄 [Resume](./Atif_Khan_Resume.pdf) &nbsp;·&nbsp; 🌐 [Portfolio](https://atifixation.github.io/new-work) &nbsp;·&nbsp; 📍 Bhopal, India
+📧 [Email](mailto:atif64896@gmail.com) &nbsp;·&nbsp; 📄 [Resume](./Atif_Khan_Resume%20.pdf) &nbsp;·&nbsp; 🌐 [Portfolio](https://atifixation.github.io/new-work) &nbsp;·&nbsp; 📍 Bhopal, India
 
 </div>
 
@@ -127,6 +127,24 @@ A personal creative presence for cinematic content and storytelling, combining w
 
 <img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%">
 
+## 📈 2026 activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/atifixation/atifixation/output/snake.svg" alt="Contribution graph with a snake eating the contributions" width="100%" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=atifixation&bg_color=0d0d0d&color=D4AF37&line=D4AF37&point=E8E8E8&area=true&area_color=D4AF37&hide_border=true&title_color=D4AF37&custom_title=Contribution%20activity" alt="Contribution activity graph" width="100%" />
+
+<br>
+
+<a href="https://github.com/atifixation?tab=overview&from=2026-01-01&to=2026-12-31"><img src="https://img.shields.io/badge/View%20all%202026%20contributions-0d0d0d?style=for-the-badge&logo=github&logoColor=D4AF37" /></a>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%">
+
 ## 🥉 Recognition & certifications
 
 - **3rd Rank, Project Category — RICR Hackathon**
@@ -139,13 +157,13 @@ A personal creative presence for cinematic content and storytelling, combining w
 
 <div align="center">
 
-<a href="./Atif_Khan_Resume.pdf">
-  <img src="./assets/resume-preview.png" width="640" alt="Atif Khan resume preview" />
+<a href="./Atif_Khan_Resume%20.pdf">
+  <img src="./resume-preview.png" width="640" alt="Atif Khan resume preview" />
 </a>
 
 <br><br>
 
-<a href="./Atif_Khan_Resume.pdf"><img src="https://img.shields.io/badge/Download%20Resume%20(PDF)-0d0d0d?style=for-the-badge&logo=adobeacrobatreader&logoColor=D4AF37" /></a>
+<a href="./Atif_Khan_Resume%20.pdf"><img src="https://img.shields.io/badge/Download%20Resume%20(PDF)-0d0d0d?style=for-the-badge&logo=adobeacrobatreader&logoColor=D4AF37" /></a>
 
 </div>
 
