@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=atifixation&color=D4AF37&style=for-the-badge&label=VISITORS" />
 <img src="https://img.shields.io/github/followers/atifixation?style=for-the-badge&color=D4AF37&labelColor=0d0d0d&label=FOLLOWERS" />
 
-📧 [Email](mailto:atif64896@gmail.com) &nbsp;·&nbsp; 📄 [Resume](./Atif_Khan_Resume.pdf) &nbsp;·&nbsp; 🌐 [Portfolio](https://atifixation.github.io/new-work) &nbsp;·&nbsp; 📍 Bhopal, India
+📧 [Email](mailto:atif64896@gmail.com) &nbsp;·&nbsp; 📄 [Resume](./Atif_Khan_Resume.pdf) &nbsp;·&nbsp; 🌐 [Portfolio](https://atif-web-mu.vercel.app) &nbsp;·&nbsp; 📍 Bhopal, India
 
 </div>
 
@@ -89,109 +89,4 @@ A healthcare-focused application built around a workflow connecting **citizens, 
 <summary><b>🎯 CareerLens — AI resume analyzer & mock interviews</b></summary>
 <br>
 
-An AI-powered platform that analyzes resumes and runs mock interviews, built for the Hack in Motion hackathon. I developed the frontend.
-
-`React` `AI`
-
-</details>
-
-<details>
-<summary><b>🎞️ ReelForge AI — Autonomous cinematic reel editor</b></summary>
-<br>
-
-A 20-module video editing pipeline built with computer vision and video processing, pitched to the founders of VideoVerse and Predis.ai.
-
-`Python` `OpenCV` `FFmpeg` `NumPy`
-
-</details>
-
-<details>
-<summary><b>🔐 Anonymous Confession Hub — Full-stack web app</b></summary>
-<br>
-
-A web platform for publishing anonymous posts, with a React frontend and a Node/Express API backed by MongoDB.
-
-`MongoDB` `Express.js` `React` `Node.js`
-
-</details>
-
-<details>
-<summary><b>🎬 FrameByFrame — Portfolio & creative brand</b></summary>
-<br>
-
-A personal creative presence for cinematic content and storytelling, combining web publishing with interests in film, books, and visual narratives.
-
-`HTML` `CSS` `GitHub Pages`
-
-</details>
-
-<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%">
-
-## 📈 2026 activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/atifixation/atifixation/output/snake.svg" alt="Contribution graph with a snake eating the contributions" width="100%" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=atifixation&theme=dark&hide_border=true&background=0d0d0d&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=D4AF37&currStreakNum=E8E8E8&sideNums=E8E8E8&dates=8b8b8b" alt="GitHub streak stats" />
-
-<br>
-
-<a href="https://github.com/atifixation?tab=overview&from=2026-01-01&to=2026-12-31"><img src="https://img.shields.io/badge/View%20all%202026%20contributions-0d0d0d?style=for-the-badge&logo=github&logoColor=D4AF37" /></a>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%">
-
-## 🥉 Recognition & certifications
-
-- **3rd Rank, Project Category — RICR Hackathon**
-- **Hackathons:** Hack in Motion (CareerLens) · Ideathon 2K26 (AgroScan AI)
-- **Certifications:** Google Cloud (Intro to Large Language Models) · Google Business Security · Cisco (IP Network, Networking Basics, Modern AI Introduction) · Deloitte Data Analytics Job Simulation
-
-<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%">
-
-## 📄 Resume
-
-<div align="center">
-
-<a href="./Atif_Khan_Resume.pdf">
-  <img src="./resume-preview.png" width="640" alt="Atif Khan resume preview" />
-</a>
-
-<br><br>
-
-<a href="./Atif_Khan_Resume.pdf"><img src="https://img.shields.io/badge/Download%20Resume%20(PDF)-0d0d0d?style=for-the-badge&logo=adobeacrobatreader&logoColor=D4AF37" /></a>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%">
-
-## 🎬 Beyond code
-
-- **Writing:** screenwriting and creative fiction, including the co-authored novel *The Frequency of the Dead*.
-- **Film:** FrameByFrame, cinematic storytelling, editing, and visual content.
-- **Reading:** @atifrecommends, my content on books, film and psychology.
-
-<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%">
-
-## 📡 Connect
-
-<div align="center">
-
-<a href="mailto:atif64896@gmail.com"><img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=D4AF37" /></a>
-<a href="https://linkedin.com/in/atifixation"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=D4AF37" /></a>
-<a href="https://github.com/atifixation"><img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=D4AF37" /></a>
-<a href="https://atifixation.github.io/new-work"><img src="https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=google-chrome&logoColor=D4AF37" /></a>
-
-<br><br>
-
-*“Build things that hold up, even when nobody is watching.”*
-
-</div>
-
-<a href="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,50:1a1611,100:0d0d0d&height=130&section=footer">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,50:1a1611,100:0d0d0d&height=130&section=footer" />
-</a>
+An AI-powered platform that analyzes resumes and runs mock interviews, built for the Hack in
